@@ -1,0 +1,38 @@
+#content 
+{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.footer 
+{
+    width: 100%;
+    height: auto;
+    background-color: #1d1d1d !important;
+}
+.subscribe-btn 
+{
+    background-color: #e13ed7 !important;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    border: none;
+    color: white !important;
+}
+.bi-facebook,.bi-twitter,.bi-whatsapp,.bi-instagram,.bi-youtube
+{
+    font-size: 22px;
+    letter-spacing: 8px;
+    color: #919191;
+}
+.footer-link li 
+{
+text-decoration: none;
+list-style-type: none;
+}
+.footer-link a 
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
